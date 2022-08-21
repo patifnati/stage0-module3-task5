@@ -7,5 +7,6 @@ public class ThreeStuckVars {
         int third = 100;
 
         System.out.println(first + "" + second + "" + third);
+
     }
 }
